@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Esther 
 - 👀 I’m interested in junior develpment roles 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and 
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT and React
 - 💞️ I’m looking to collaborate on innovative projects.
 - 📫 How to reach me on my GITHub
 
